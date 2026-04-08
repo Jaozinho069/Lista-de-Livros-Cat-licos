@@ -1,18 +1,11 @@
 # Lista-de-Livros-Cat-licos
 Lista de livros católicos que pretendo comprar. Contém livros de espiritualidade, história e tradição/doutrina. 
-
 <div align="center">
   
-  <a href="URL_DE_COMPRA_1">
-    <img src="URL_DA_IMAGEM_1" width="150px"><br>
-    <b>Nome do Livro 1</b>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="URL_DE_COMPRA_2">
-    <img src="URL_DA_IMAGEM_2" width="150px"><br>
-    <b>Nome do Livro 2</b>
+  <a href="https://www.mercadolivre.com.br/catecismo-da-igreja-catolica-capa-dura-grande--edicao-luxo/up/MLBU1733845440">
+    <img src="https://img.travessa.com.br/livro/BA/10/BA10309995.jpg" width="200" alt="Catecismo da Igreja Católica">
+    <br>
+    <b>Catecismo da Igreja Católica (Edição Luxo)</b>
   </a>
 
 </div>
